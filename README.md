@@ -1,8 +1,6 @@
 # HexChat-Weather-Crypto-IMDB-Bot-AddOn
 HexChat-Weather-Crypto-IMDB-Bot-AddOn - Looks up weather, crypto prices, imdb ratings via API keys in a python script for hexchat.
 
-Sure! I will include "s0berage" as the author in the script's comment section and also include it in the printed output when the script is loaded. This helps clarify who developed the script. Below is the updated script with the author attribute included.
-
 ### Updated HexChat Script with Author
 
 ```python
